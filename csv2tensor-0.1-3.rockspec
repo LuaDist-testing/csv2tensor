@@ -1,10 +1,18 @@
-package = "csv2tensor"
-version = "0.1-2"
+-- This file was automatically generated for the LuaDist project.
 
+package = "csv2tensor"
+version = "0.1-3"
+
+-- LuaDist source
 source = {
-    url = "git://github.com/willkurt/csv2tensor.git",
-    tag = "v0.1-2"
+  tag = "0.1-3",
+  url = "git://github.com/LuaDist-testing/csv2tensor.git"
 }
+-- Original source
+-- source = {
+--     url = "git://github.com/willkurt/csv2tensor.git",
+--     tag = "v0.1-3"
+-- }
 
 description = {
     summary = "Load CSV files into Torch7 Tensors",
